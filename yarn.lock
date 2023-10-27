@@ -940,10 +940,10 @@
     tslib "^2.3.1"
     warn-once "^0.1.0"
 
-"@refinedev/core@^4.44.7":
-  version "4.44.7"
-  resolved "https://registry.yarnpkg.com/@refinedev/core/-/core-4.44.7.tgz#de0293765222918a1f638c8e9f6e36a11dfdf32d"
-  integrity sha512-jmA+ZRm7yv72bt6hCQUtbJ1TA+ROdlVpNnuImvh3sftPdzCBtGBIj7sUzEhN322dXOGEPB+c3GWURFf2nUiXuQ==
+"@refinedev/core@^4.44.9":
+  version "4.44.9"
+  resolved "https://registry.yarnpkg.com/@refinedev/core/-/core-4.44.9.tgz#eb0fb693a5bfb242abc937f698c92073e61d0c71"
+  integrity sha512-7D5RhqI6wUz4yrdkh7DrZZT9nN10ScdnQhjW3JbRZKgKXikfQryK7y+KQ8OwQ1PXKxz00YZ9nxe6jlXpGcOwrw==
   dependencies:
     "@refinedev/devtools-internal" "1.1.4"
     "@tanstack/react-query" "^4.10.1"
